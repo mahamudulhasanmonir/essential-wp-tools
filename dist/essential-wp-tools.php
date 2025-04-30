@@ -3,7 +3,7 @@
 
 /**
  * @link				https://github.com/RactStudio/essential-wp-tools
- * @since			1.0.0
+ * @since			1.0.2
  * @package		essential_wp_tools
  *
  * Plugin Name: Essential WP Tools - WordPress Manager
